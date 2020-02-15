@@ -8,3 +8,4 @@ type %appdata%
 then open your .minecraft folder
 then open your mods folder and drag the Mod Labeled DVL_Mod_Version#
 then open minecraft Forge 1.14.4 and Enjoy
+If your having problems installing the mod please write a comment
